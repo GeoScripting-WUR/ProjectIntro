@@ -1,0 +1,29 @@
+---
+title: "Project Introduction"
+author: "Jan Verbesselt"
+date: "8 Jan 2015"
+output: slidy_presentation
+---
+
+## Today in the morning
+
+* Finalise the excercises
+* The for the question and answer forum
+
+## Project work introduction
+
+* Idea
+* Planning
+* Deadline 
+* Friday: presentations 
+    - 13 teams?
+
+## Preparations for tomorrows Lesson
+
+* Copy OSGEO live from the following folder: `W:\Student\Shares\GRS51806` to your own computer
+* Open that file within VMWare Viewer
+* How know what a Virtual Machine is?
+* What is the difference with `Dual Boot`?
+
+## More info
+
