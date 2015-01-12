@@ -1,52 +1,73 @@
 ---
-title: "Project Introduction"
+title: "Lesson 8: Project Introduction"
 author: "Jan Verbesselt"
-date: "8 Jan 2015"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: slidy_presentation
 ---
 
 ## Today in the morning
 
-* Finalise the excercises
-* check the question and answers forum
-* think about a simple, concise, scripting challenge 
-    - See the next slide
+* Finalise the excercise of Lesson 7
+* Check the question and answers forum
+* Copy OSGEO live Linux from the following folder: `W:\Student\Shares\GRS51806` to your own computer
+* Think about a simple, concise, scripting challenge 
+    - See the next slide for a description
 
-## Project week introduction
+## The geo-challenge
 
-* Idea
+* Objective
+    * Demonstrate scripting skills in a spatial oriented challenge
+    * Develop a reproducible script that does something geo-cool!
+    * Demonstrating capacity to read, visualize, and write spatial data that other can use
+    * Using basic scripting concepts for handling spatial data
+    * Using different functions and libraries (new?)
+    * Writing a clear, structured and well documented script that is understandable by others
+
+## The geo-challenge
+
 * Planning
-* Deadline 
-* Friday: presentations 
-    - 13 teams?
+    * 4 full days for project work
+    * Friday 16/01 afternoon
+    * Monday - Thursday (26-30/01)
+  
+* Deadline
+    * Script by Thursday (30/01, 14u)
+    * Presentation Friday morning.
+
+## The geo-challenge
+
+* Deliverables by 30 and 31/01:
+    * A script that is reproducible and produces a result (map, analysis) for your presentation
+    * Submit the script via a Git Repository
+    * A presentation where you explain
+        * objective
+        * method i.e. workflow
+        * result by some nice visualisation (map, output, analysis)
+
+## Example geo-challenges
+
+* A simple challenge or question is good as long as you apply and demonstrated geo-scripting skills
+* Examples:  
+    - [Pieter Bouke (Geo-scripting 2013)](https://drive.google.com/file/d/0Bxl0UxklsP1EVHRTeHd6S2dBdmM/view?usp=sharing)
+    - See Lesson 2 for examples of little demo projects
+
+## The geo-challenge
+
+* Teams?!
+    - You can work on your own or teams of two or three
+    - [Fill in the sheet and also add your objective one sentence](http://goo.gl/forms/WUyKwTFoL8) (and later on your GitHub Repository)
+
+## Assignment
+
+* Write a project proposal of half a page that contains:
+    * team name and members
+    * geo-challenge title and objective
+    * What? short description of what you want to do
+    * How? Descripe methodology
+    * What will be the result, output, and/or visualisation
+
+* Submit by e-mail to me (Jan) before tomorrow 1030u.
 
 ## Preparations for tomorrows Lesson
 
-* Copy OSGEO live from the following folder: `W:\Student\Shares\GRS51806` to your own computer
-* Open that file within VMWare Viewer
-* How know what a `Virtual Machine` is?
-* What is the difference with `Dual Boot`?
-
-## OSGeoLive
-
-[OS-Geo Live](http://live.osgeo.org/en/index.html) is Virtual Machine based on Lubuntu, that allows you to try a wide variety of open source geospatial software without installing anything. It is composed entirely of free software, allowing it to be freely distributed, duplicated and passed around.
-
-- Lubuntu
-    - A fast and lightweight operating system. The core of the system is based on Linux - Ubuntu
-- Ubuntu
-    - A Linux distribution
-    - named after the Southern African philosophy of ubuntu (literally, "human-ness"), which often is translated as "humanity towards others"
-    - User friendly and accessible
-    
-- Virtual Machine
-    - In computing, a virtual machine (VM) is an emulation of a particular computer system (e.g. operating system)
-
-
-## OSGEO Live
-
-Why? Any clues?
-
-
-
-
-
+* Copy OSGEO live Linux from the following folder: `W:\Student\Shares\GRS51806` to your own computer
