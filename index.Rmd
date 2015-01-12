@@ -50,6 +50,7 @@ output: slidy_presentation
 * Examples:  
     - [Pieter Bouke (Geo-scripting 2013)](https://drive.google.com/file/d/0Bxl0UxklsP1EVHRTeHd6S2dBdmM/view?usp=sharing)
     - See Lesson 2 for examples of little demo projects
+    - Develop a new excercise for one of the lessons e.g. vector/raster analysis
 
 ## The geo-challenge
 
