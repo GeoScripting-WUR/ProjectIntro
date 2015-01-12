@@ -8,9 +8,11 @@ output: slidy_presentation
 ## Today in the morning
 
 * Finalise the excercises
-* The for the question and answer forum
+* check the question and answers forum
+* think about a simple, concise, scripting challenge 
+    - See the next slide
 
-## Project work introduction
+## Project week introduction
 
 * Idea
 * Planning
@@ -22,8 +24,29 @@ output: slidy_presentation
 
 * Copy OSGEO live from the following folder: `W:\Student\Shares\GRS51806` to your own computer
 * Open that file within VMWare Viewer
-* How know what a Virtual Machine is?
+* How know what a `Virtual Machine` is?
 * What is the difference with `Dual Boot`?
 
-## More info
+## OSGeoLive
+
+[OS-Geo Live](http://live.osgeo.org/en/index.html) is Virtual Machine based on Lubuntu, that allows you to try a wide variety of open source geospatial software without installing anything. It is composed entirely of free software, allowing it to be freely distributed, duplicated and passed around.
+
+- Lubuntu
+    - A fast and lightweight operating system. The core of the system is based on Linux - Ubuntu
+- Ubuntu
+    - A Linux distribution
+    - named after the Southern African philosophy of ubuntu (literally, "human-ness"), which often is translated as "humanity towards others"
+    - User friendly and accessible
+    
+- Virtual Machine
+    - In computing, a virtual machine (VM) is an emulation of a particular computer system (e.g. operating system)
+
+
+## OSGEO Live
+
+Why? Any clues?
+
+
+
+
 
