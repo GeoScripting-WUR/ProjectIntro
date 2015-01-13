@@ -17,11 +17,11 @@ output: slidy_presentation
 
 * Objective
     * Demonstrate scripting skills in a spatial oriented challenge
-    * Develop a reproducible script that does something geo-cool!
+    * Develop a reproducible RStudio project that does something geo-cool!
     * Demonstrating capacity to read, visualize, and write spatial data that other can use
     * Using basic scripting concepts for handling spatial data
     * Using different functions and libraries (new?)
-    * Writing a clear, structured and well documented script that is understandable by others
+    * Writing a clear, structured and well documented project that is understandable by others
 
 ## The geo-challenge
 
@@ -31,14 +31,14 @@ output: slidy_presentation
     * Monday - Thursday (26-30/01)
   
 * Deadline
-    * Script by Thursday (30/01, 14u)
+    * Projects to be handed in by Thursday (30/01, 14u)
     * Presentation Friday morning.
 
 ## The geo-challenge
 
 * Deliverables by 30 and 31/01:
-    * A script that is reproducible and produces a result (map, analysis) for your presentation
-    * Submit the script via a Git Repository
+    * A project that is reproducible and produces a result (map, analysis) for your presentation
+    * Submit the project via a Git Repository
     * A presentation where you explain
         * objective
         * method i.e. workflow
