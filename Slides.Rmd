@@ -1,0 +1,76 @@
+---
+title: "Lesson 8"
+author: "Jan Verbesselt"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: slidy_presentation
+---
+
+## Topics
+
+- Project intro & teams
+- Test OSGEO-Live Linux
+
+## Previous Lessons
+
+- A search engine is your friend:
+    * Google
+    * Bing: http://www.bing.com/
+    * Duc Duc Go!!! : https://duckduckgo.com/
+
+- [A list of search Engines](https://en.wikipedia.org/wiki/List_of_search_engines#Privacy_search_engines)
+
+## R lessons and excercises
+
+- All ok? Anything missing? Too much?
+- Feel in the Feedback sheet
+- Which lesson did you like a lot? 
+
+## Project intro
+
+## Getting started with Linux (OS-GEO)
+
+We will do this together during the lesson:
+
+* Open that file (vmx) within VMWare Viewer
+* See screenshots
+
+## Getting started with Linux (OS-GEO)
+
+* Who know's what a `Virtual Machine` is?
+
+* What is the difference with `Dual Boot`?
+    * on mac: http://askubuntu.com/questions/1832/is-it-possible-to-install-ubuntu-on-a-mac-using-bootcamp
+    * on windows: http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html
+    
+
+## Getting started with Linux (OS-GEO)
+
+[OS-Geo Live](http://live.osgeo.org/en/index.html) is Virtual Machine based on Lubuntu, that allows you to try a wide variety of open source geospatial software without installing anything. It is composed entirely of free software, allowing it to be freely distributed, duplicated and passed around.
+
+- Lubuntu
+    - A fast and lightweight operating system. The core of the system is based on Linux - Ubuntu
+- Ubuntu
+    - A Linux distribution
+    - named after the Southern African philosophy of ubuntu (literally, "human-ness"), which often is translated as "humanity towards others"
+    - User friendly and accessible
+    
+- Virtual Machine
+    - In computing, a virtual machine (VM) is an emulation of a particular computer system (e.g. operating system)
+
+
+## OSGEO Live
+
+Why? Any clues?
+
+## Launching R, Rstudio, Python
+
+Let try that together.
+
+Running Python:
+
+* Via QGIS -> Plug-inns -> Python Console
+* Choose you own preferred editor for Python scripts
+    * Gedit as simple but good text editor
+    * Eric
+    * Spyder
+
