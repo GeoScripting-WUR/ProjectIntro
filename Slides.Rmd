@@ -23,9 +23,7 @@ output: slidy_presentation
 
 ## R lessons and excercises
 
-- All ok? Anything missing? Too much?
-- Fill in the Feedback sheet
-- Which lesson did you like a lot? 
+- All ok?
 
 ## Project intro
 
@@ -38,12 +36,9 @@ We will do this together during the lesson:
 
 ## Getting started with Linux (OS-GEO)
 
-* Who know's what a `Virtual Machine` is?
-
+* What is a `Virtual Machine`?
 * What is the difference with `Dual Boot`?
-    * on mac: http://askubuntu.com/questions/1832/is-it-possible-to-install-ubuntu-on-a-mac-using-bootcamp
-    * on windows: http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html
-    
+
 
 ## Getting started with Linux (OS-GEO)
 
@@ -66,13 +61,23 @@ Why? Any clues?
 
 ## Launching R, Rstudio, Python
 
-Let try that together.
+Let try that together:
 
-Running Python:
+* Terminal
+* R and Rstudio
+    * Set-up an Rstudio project
+* Running Python
+    * via the terminal
+    * Via QGIS -> Plug-inns -> Python Console
+  * Choose you own preferred editor for Python scripts
+      * Gedit as simple but good text editor
+      * Eric
+      * Spyder
 
-* Via QGIS -> Plug-inns -> Python Console
-* Choose you own preferred editor for Python scripts
-    * Gedit as simple but good text editor
-    * Eric
-    * Spyder
+## More information
 
+How to install Linux on a Mac/Windows as Dual-Boot:
+
+* on mac: http://askubuntu.com/questions/1832/is-it-possible-to-install-ubuntu-on-a-mac-using-bootcamp
+* on windows: http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html
+    
