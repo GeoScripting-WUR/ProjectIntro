@@ -24,6 +24,7 @@ output: slidy_presentation
 ## R lessons and excercises
 
 - All ok?
+- Did you try to Publish to RPubs?
 
 ## Project intro
 
