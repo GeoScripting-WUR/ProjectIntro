@@ -9,6 +9,7 @@ output: slidy_presentation
 
 - Project intro & teams
 - Test OSGEO-Live Linux
+    * Copy OSGEO live Linux from the following folder: `W:\Student\Shares\GRS51806` to your own computer
 
 ## Previous Lessons
 
