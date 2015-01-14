@@ -46,6 +46,7 @@ output: slidy_presentation
 
 ## Example geo-challenges
 
+* First identify a data set that you can use (e.g. data available for download, etc.). You need to have a rather simple, not too large data set that you can `analyse`.
 * A simple challenge or question is good as long as you apply and demonstrated geo-scripting skills
 * Examples:  
     - [Pieter Bouke (Geo-scripting 2013)](https://drive.google.com/file/d/0Bxl0UxklsP1EVHRTeHd6S2dBdmM/view?usp=sharing)
