@@ -12,17 +12,19 @@ output: slidy_presentation
 
 ## Previous Lessons
 
-- A search engine is your friend:
+- A 'search engine' is your friend:
     * Google
     * Bing: http://www.bing.com/
     * Duc Duc Go!!! : https://duckduckgo.com/
 
 - [A list of search Engines](https://en.wikipedia.org/wiki/List_of_search_engines#Privacy_search_engines)
 
+- R-SIG-GEO? Who knows what this is?
+
 ## R lessons and excercises
 
 - All ok? Anything missing? Too much?
-- Feel in the Feedback sheet
+- Fill in the Feedback sheet
 - Which lesson did you like a lot? 
 
 ## Project intro
