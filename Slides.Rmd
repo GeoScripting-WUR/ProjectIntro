@@ -33,7 +33,7 @@ output: slidy_presentation
 
 We will do this together during the lesson:
 
-* Open that file (vmx) within VMWare Viewer
+* Open that file (vmx) within VMWarePlayer
 * See screenshots
 
 ## Getting started with Linux (OS-GEO)
