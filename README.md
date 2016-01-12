@@ -1,4 +1,5 @@
-## Project introduction
+## [Project introduction](https://geoscripting-wur.github.io/ProjectIntro/)
 
 Lesson 8: Introduction to the project week
-    - https://geoscripting-wur.github.io/ProjectIntro/
+
+    - [List of topics](https://geoscripting-wur.github.io/ProjectIntro/)
