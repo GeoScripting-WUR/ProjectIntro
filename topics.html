@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GeoScripting project week</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div class="container">
+        <div class="jumbotron">
+          <h1 align="center">GeoScripting project week</h1>
+          <p align="center"><em>topics</em></p>
+        </div>
+        <p>During the 4th week of the GeoScripting course each group will be required to carry out a small geo-scripting project. The specific objectives and assessment criteria of these project will be presented to you by Jan later. You can decide which topic you want to work on by either coming up with your own topic idea (which will need to be discussed and approved by one of the course lecturers), or selecting a topic from the list of topics we've compiled.</p>
+
+        <h2>This year's topic are the following</h2>
+
+        <h3>Planet Labs topics</h3>
+
+        <p><a href="https://www.planet.com/">Planet Labs</a> is an Earth Imaging company that launches micro-satellites. The satellites capture images of the earth at high spatial resolution (3-5m) and, because of their high number, with a high temporal frequency. While users would normally need to pay for accessing the data, Planet Labs has made <a href="https://www.planet.com/open-california">its data archive available</a> for the state of California for users and developpers like you to develop and test methods and applications. We defined a list of topics using Planet Labs data that we think would present interesting challenges for the project week of the geoScripting course.</p>
+
+        <div class="well">
+            <h3>Urban tree detection</h3>
+            <p>The objective of this topic is to develop a spatial segmentation method using scripting with open source tools to automatically identify urban trees in a very high spatial resolution image</p>
+            <p>Tools:</p>
+            <ul>
+                <li>python</li>
+                <li>Planet Labs API</li>
+                <li><a href="https://www.orfeo-toolbox.org/">Orfeo Toolbox</a></li>
+                <li><a href="https://trac.osgeo.org/gdal/wiki/GdalOgrInPython">python gdal bindings</a> or <a href="https://github.com/mapbox/rasterio">rasterio</a></li>
+                <li><a href="http://scikit-image.org/">scikit-image</a></li>
+            </ul>
+            <p>Datasets</p>
+            <ul>
+                <li>Planet Labs data</li>
+                <li><a href="http://urbanforestmap.org/">Urban forest map</a> for validation</li>
+            </ul>
+        </div>
+
+        <div class="well">
+            <h3>Crop type mapping using temporal dynamics</h3>
+            <p>For an agricultural area of California you'll develop a method using the Planet Labs API and the geo-scripting knowledge you have acquired during the past 3 weeks to differentiate crop types. Planet Labs data have limited spectral characteristics but high temporal resolution.</p>
+            <p>Tools</p>
+            <ul>
+                <li>python</li>
+                <li>Planet Labs API</li>
+                <li><a href="https://trac.osgeo.org/gdal/wiki/GdalOgrInPython">python gdal bindings</a> or <a href="https://github.com/mapbox/rasterio">rasterio</a></li>
+            </ul>
+        </div>
+
+        <div class="well">
+            <p>If you have an additional topic ideas using data from Planet Labs, let me (<a href="mailto:loic.dutrieux@wur.nl">Loïc</a>) know.</p>
+        </div>
+    </div>
+
+</body>
+</html>
+
