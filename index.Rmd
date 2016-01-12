@@ -1,5 +1,5 @@
 ---
-title: "Lesson 8: Project Introduction"
+title: "Project Introduction"
 author: "Jan Verbesselt"
 date: 14 January 2015
 output: slidy_presentation
@@ -7,9 +7,8 @@ output: slidy_presentation
 
 ## Today in the morning
 
-* Finalise the excercise of Lesson 7
+* Finalise the excercise from the previous day.
 * Check the question and answers forum
-* Copy OSGEO live Linux from the following folder: `W:\Student\Shares\GRS51806` to your own computer
 * Think about a simple, concise, scripting challenge 
     - See the next slide for a description
 
@@ -31,12 +30,12 @@ output: slidy_presentation
     * Monday - Thursday (26-30/01)
   
 * Deadline
-    * Projects to be handed in by Thursday (30/01, 14u)
+    * Projects to be handed in by Thursday (14u)
     * Presentation Friday morning.
 
 ## The geo-challenge
 
-* Deliverables by 30 and 31/01:
+* Deliverables:
     * A project that is reproducible and produces a result (map, analysis) for your presentation
     * Submit the project via a Git Repository
     * A presentation where you explain
@@ -69,8 +68,4 @@ output: slidy_presentation
     * How? Descripe methodology
     * What will be the result, output, and/or visualisation
 
-* Submit by e-mail to me (Jan) before tomorrow 1030u.
-
-## Preparations for tomorrows Lesson
-
-* Copy OSGEO live Linux from the following folder: `W:\Student\Shares\GRS51806` to your own computer
+* Submit by blackboard before tomorrow 1030u.
