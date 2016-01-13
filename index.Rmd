@@ -1,7 +1,7 @@
 ---
 title: "Project Introduction"
 author: "Jan Verbesselt"
-date: 14 January 2015
+date: 13 January 2016
 output: slidy_presentation
 ---
 
@@ -57,7 +57,7 @@ output: slidy_presentation
 
 * Teams?!
     - You can work on your own or teams of two or three
-    - [Fill in the sheet and also add your objective one sentence](http://goo.gl/forms/WUyKwTFoL8) (and later on your GitHub Repository)
+    - [Fill in the sheet and also add your objective one sentence](http://goo.gl/forms/fm3PuAijWC)
 
 ## Assignment
 
