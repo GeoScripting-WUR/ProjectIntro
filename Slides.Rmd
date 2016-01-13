@@ -8,8 +8,6 @@ output: slidy_presentation
 ## Topics
 
 - Project intro & teams
-- Test OSGEO-Live Linux
-    * Copy OSGEO live Linux from the following folder: `W:\Student\Shares\GRS51806` to your own computer
 
 ## Previous Lessons
 
@@ -28,19 +26,6 @@ output: slidy_presentation
 - Did you try to Publish to RPubs?
 
 ## Project intro
-
-## Getting started with Linux (OS-GEO)
-
-We will do this together during the lesson:
-
-* Open that file (vmx) within VMWarePlayer
-* See screenshots
-
-## Getting started with Linux (OS-GEO)
-
-* What is a `Virtual Machine`?
-* What is the difference with `Dual Boot`?
-
 
 ## Getting started with Linux (OS-GEO)
 
