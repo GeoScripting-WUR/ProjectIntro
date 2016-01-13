@@ -26,11 +26,11 @@ output: slidy_presentation
 
 * Planning
     * 4 full days for project work
-    * Friday 16/01 afternoon
-    * Monday - Thursday (26-30/01)
+    * Friday 15/01 afternoon
+    * Monday - Thursday (25-28/01)
   
 * Deadline
-    * Projects to be handed in by Thursday (14u)
+    * Projects to be handed in by Thursday 28/01 (14u)
     * Presentation Friday morning.
 
 ## The geo-challenge
