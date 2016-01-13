@@ -4,9 +4,9 @@
   <title>GeoScripting project week</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
 <body>
 
@@ -19,14 +19,30 @@
 
         <h2>This year's topic are the following</h2>
 
+        <div class="well">
+            <h3>Interactive tool for visualization of change detection results</h3>
+            <p>We have <a href="http://bfast.r-forge.r-project.org/">algorithms</a> in house designed to detect change on satellite images time-series. The objective of this project would be to design an interactive tool (with shiny or another tool) that allows the user to interactively produce and visualize maps of land cover change.</p>
+            <p>Tools</p>
+            <ul>
+                <li>R</li>
+                <li><a href="http://shiny.rstudio.com/">Shiny</a></li>
+                <li><a href="https://github.com/dutri001/bfastSpatial">bfastSpatial</a></li>
+                <li><a href="https://rstudio.github.io/leaflet/shiny.html">Leaflet</a></li>
+            </ul>
+            <p>Data:</p>
+            <ul>
+                <li>MODIS or Landsat</li>
+            </ul>
+        </div>
+
         <h3>Planet Labs topics</h3>
 
         <p><a href="https://www.planet.com/">Planet Labs</a> is an Earth Imaging company that launches micro-satellites. The satellites capture images of the earth at high spatial resolution (3-5m) and, because of their high number, with a high temporal frequency. While users would normally need to pay for accessing the data, Planet Labs has made <a href="https://www.planet.com/open-california">its data archive available</a> for the state of California for users and developpers like you to develop and test methods and applications. We defined a list of topics using Planet Labs data that we think would present interesting challenges for the project week of the geoScripting course.</p>
 
         <div class="well">
-            <h3>Urban tree detection</h3>
-            <p>The objective of this topic is to develop a spatial segmentation method using scripting with open source tools to automatically identify urban trees in a very high spatial resolution image</p>
-            <p>Tools:</p>
+            <h3>Urban tree detection from Very High Resolution data</h3>
+            <p>The objective of this topic is to develop a spatial segmentation method using scripting with open source tools to automatically identify urban trees from very high spatial resolution imagery</p>
+            <p>Tools</p>
             <ul>
                 <li>python</li>
                 <li>Planet Labs API</li>
