@@ -52,7 +52,7 @@ output: slidy_presentation
 * First identify a data set that you can use (e.g. data available for download, etc.). You need to have a rather simple, not too large data set that you can `analyse`.
 * A simple challenge or question is good as long as you apply and demonstrated geo-scripting skills
 * Examples:
-
+    - [We have some topics available](https://geoscripting-wur.github.io/ProjectIntro/topics.html)
     - See Lesson 2 for examples of little demo projects
     - Develop an R or Python script that can analyse MODIS data available from the FluxNet site, and apply BFAST on it ([See the tutorial](https://github.com/verbe039/BFASTforAEO/blob/master/BFASTExcercise.pdf?raw=true))
 
