@@ -72,3 +72,8 @@ output: slidy_presentation
     * What will be the result, output, and/or visualisation
 
 * Submit by blackboard before tomorrow 1030u.
+
+## Tomorrow
+
+* Python refresher (See blackboard course description)
+* Project work and finalise all excercises (major deadline)
