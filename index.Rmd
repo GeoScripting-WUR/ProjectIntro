@@ -1,7 +1,7 @@
 ---
 title: "Project Introduction"
 author: "Jan Verbesselt"
-date: 13 January 2016
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: slidy_presentation
 ---
 
@@ -19,7 +19,7 @@ output: slidy_presentation
     * Develop a reproducible RStudio project that does something geo-cool!
     * Demonstrating capacity to read, visualize, and write spatial data that other can use
     * Using basic scripting concepts for handling spatial data
-    * Using different functions and libraries (new?)
+    * Using different functions and libraries (e.g. try out new libraries)
     * Writing a clear, structured and well documented project that is understandable by others
 
 ## The geo-challenge
@@ -32,6 +32,10 @@ output: slidy_presentation
 * Deadline
     * Projects to be handed in by Thursday 28/01 (14u)
     * Presentation Friday morning.
+
+* Friday 29/01: 
+    * Presentation day (10min per team)
+    * Evaluation by a expert jury panel
 
 ## The geo-challenge
 
@@ -47,10 +51,9 @@ output: slidy_presentation
 
 * First identify a data set that you can use (e.g. data available for download, etc.). You need to have a rather simple, not too large data set that you can `analyse`.
 * A simple challenge or question is good as long as you apply and demonstrated geo-scripting skills
-* Examples:  
-    - [Pieter Bouke (Geo-scripting 2013)](https://drive.google.com/file/d/0Bxl0UxklsP1EVHRTeHd6S2dBdmM/view?usp=sharing)
+* Examples:
+
     - See Lesson 2 for examples of little demo projects
-    - Develop a new excercise for one of the lessons e.g. vector/raster analysis
     - Develop an R or Python script that can analyse MODIS data available from the FluxNet site, and apply BFAST on it ([See the tutorial](https://github.com/verbe039/BFASTforAEO/blob/master/BFASTExcercise.pdf?raw=true))
 
 ## The geo-challenge
