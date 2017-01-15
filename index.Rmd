@@ -26,15 +26,15 @@ output: slidy_presentation
 
 * Planning
     * 4 full days for project work
-    * Friday 15/01 afternoon
-    * Monday - Thursday (25-28/01)
+    * Monday - Thursday
   
 * Deadline
-    * Projects to be handed in by Thursday 28/01 (14u)
+    * Github link deadline by Thursday (14u)
+    * After that one other team needs to review the project of the other team
     * Presentation Friday morning.
 
-* Friday 29/01: 
-    * Presentation day (10min per team)
+* Friday next week 
+    * Presentation (5 minute presentation + 5 feedback of the other team and questions from the group)
     * Evaluation by a expert jury panel
 
 ## The geo-challenge
@@ -46,6 +46,7 @@ output: slidy_presentation
         * objective
         * method i.e. workflow
         * result by some nice visualisation (map, output, analysis)
+        * what have you learned? 
 
 ## Example geo-challenges
 
@@ -71,7 +72,7 @@ output: slidy_presentation
     * How? Descripe methodology
     * What will be the result, output, and/or visualisation
 
-* Submit by blackboard before tomorrow 1030u.
+* Submit by blackboard before end of the day
 
 ## Tomorrow
 
