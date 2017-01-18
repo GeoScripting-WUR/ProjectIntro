@@ -33,7 +33,7 @@ output: slidy_presentation
     * After that one other team needs to review the project of the other team
     * Presentation Friday morning.
 
-* Friday next week 
+* Friday final week 
     * Presentation (5 minute presentation + 5 feedback of the other team and questions from the group)
     * Evaluation by a expert jury panel
 
@@ -50,20 +50,18 @@ output: slidy_presentation
 
 ## Example geo-challenges
 
-* First identify a data set that you can use (e.g. data available for download, etc.). You need to have a rather simple, not too large data set that you can `analyse`.
+* First identify a data set that you can use (e.g. data available for download, etc.). You need to have a small (!) dataset that you can `analyse`.
 * A simple challenge or question is good as long as you apply and demonstrated geo-scripting skills
 * Examples:
     - [We have some topics available](https://geoscripting-wur.github.io/ProjectIntro/topics.html)
-    - See Lesson 2 for examples of little demo projects
-    - Develop an R or Python script that can analyse MODIS data available from the FluxNet site, and apply BFAST on it ([See the tutorial](https://github.com/verbe039/BFASTforAEO/blob/master/BFASTExcercise.pdf?raw=true))
 
 ## The geo-challenge
 
 * Teams?!
     - You can work on your own or teams of two or three
-    - [Fill in the sheet and also add your objective one sentence](http://goo.gl/forms/fm3PuAijWC)
+    - [Fill in the sheet and also add your objective one sentence](https://goo.gl/forms/lHvm9sReSpQbyTLw2)
 
-## Assignment
+## Assignment for today
 
 * Write a project proposal of half a page that contains:
     * team name and members
@@ -72,7 +70,7 @@ output: slidy_presentation
     * How? Descripe methodology
     * What will be the result, output, and/or visualisation
 
-* Submit by blackboard before end of the day
+* Submit by blackboard before end of the day together with feedback from the other team
 
 ## Tomorrow
 
