@@ -9,8 +9,8 @@ output: slidy_presentation
 
 * Finalise the excercise from the previous day.
 * Check the question and answers forum
-* Think about a simple, concise, scripting challenge 
-    - See the next slide for a description
+* Think about a feasible, concise, scripting challenge  (see next slides)
+* Work on DataCamp Assignments
 
 ## The geo-challenge
 
@@ -75,4 +75,4 @@ output: slidy_presentation
 ## Tomorrow
 
 * Python refresher (See blackboard course description)
-* Project work and finalise all excercises (major deadline)
+* Project work and finalise all excercises
