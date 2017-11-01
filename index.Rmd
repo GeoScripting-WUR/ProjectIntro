@@ -35,7 +35,7 @@ output: slidy_presentation
 
 * Friday final week 
     * Presentation (5 minute presentation + 5 feedback of the other team and questions from the group)
-    * Evaluation by a expert jury panel
+    * Evaluation by expert jury panel
 
 ## The geo-challenge
 
@@ -64,8 +64,8 @@ output: slidy_presentation
 ## Assignment for today
 
 * Write a project proposal of half a page that contains:
-    * team name and members
-    * geo-challenge title and objective
+    * Team name and members
+    * Geo-challenge title and objective
     * What? short description of what you want to do
     * How? Descripe methodology
     * What will be the result, output, and/or visualisation
