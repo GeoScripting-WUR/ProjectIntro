@@ -7,7 +7,7 @@ output: slidy_presentation
 
 ## Today in the morning
 
-* Finalise the excercise from the previous day.
+* Review yesterdays assignment
 * Check the question and answers forum
 * Think about a feasible, concise, scripting challenge  (see next slides)
 * Work on DataCamp Assignments
@@ -29,7 +29,7 @@ output: slidy_presentation
     * Monday - Thursday
   
 * Deadline
-    * Github link deadline by Thursday (14u)
+    * GitLab link deadline by Thursday (14u)
     * After that one other team needs to review the project of the other team
     * Presentation Friday morning.
 
@@ -61,18 +61,15 @@ output: slidy_presentation
     - You can work on your own or teams of two or three
     - [Fill in the sheet and also add your objective one sentence](https://goo.gl/forms/lHvm9sReSpQbyTLw2)
 
-## Assignment for today
+## Assignment for today: Lesson08
 
 * Write a project proposal of half a page that contains:
     * Team name and members
     * Geo-challenge title and objective
     * What? short description of what you want to do
-    * How? Descripe methodology
+    * How? Describe methodology
     * What will be the result, output, and/or visualisation
 
-* Submit by blackboard before end of the day together with feedback from the other team
+* Submit your project proposal to blackboard before end of the day
 
-## Tomorrow
 
-* Python refresher (See blackboard course description)
-* Project work and finalise all excercises
