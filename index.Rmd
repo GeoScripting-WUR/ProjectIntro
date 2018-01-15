@@ -7,10 +7,12 @@ output: slidy_presentation
 
 ## Today in the morning
 
-* Finalise the excercise from the previous day.
-* Check the question and answers forum
 * Think about a feasible, concise, scripting challenge  (see next slides)
-* Work on DataCamp Assignments
+* Check the question and answers forum
+
+## overall tips and tricks
+
+- R-SIG-GEO? Who knows what this is?
 
 ## The geo-challenge
 
@@ -31,7 +33,7 @@ output: slidy_presentation
 * Deadline
     * Github link deadline by Thursday (14u)
     * After that one other team needs to review the project of the other team
-    * Presentation Friday morning.
+    * Submit presentation to Blackboard - Script Review Center - before the end of the day
 
 * Friday final week 
     * Presentation (5 minute presentation + 5 feedback of the other team and questions from the group)
@@ -58,8 +60,7 @@ output: slidy_presentation
 ## The geo-challenge
 
 * Teams?!
-    - You can work on your own or teams of two or three
-    - [Fill in the sheet and also add your objective one sentence](https://goo.gl/forms/lHvm9sReSpQbyTLw2)
+    - You can work on your own or teams of two
 
 ## Assignment for today
 
@@ -70,9 +71,4 @@ output: slidy_presentation
     * How? Descripe methodology
     * What will be the result, output, and/or visualisation
 
-* Submit by blackboard before end of the day together with feedback from the other team
 
-## Tomorrow
-
-* Python refresher (See blackboard course description)
-* Project work and finalise all excercises
