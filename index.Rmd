@@ -7,11 +7,6 @@ output: slidy_presentation
 
 ## Today in the morning
 
-<<<<<<< HEAD
-=======
-* Review yesterdays assignment
-* Check the question and answers forum
->>>>>>> dd6f637850bb369e461f8941545ba28047eef0af
 * Think about a feasible, concise, scripting challenge  (see next slides)
 * Check the question and answers forum
 
@@ -38,7 +33,7 @@ output: slidy_presentation
 * Deadline
     * GitLab link deadline by Thursday (14u)
     * After that one other team needs to review the project of the other team
-    * Submit presentation to Blackboard - Script Review Center - before the end of the day
+    * Submit presentation (pdf) to Blackboard - Script Review Center - before the end of the day
 
 * Friday final week 
     * Presentation (5 minute presentation + 5 feedback of the other team and questions from the group)
@@ -76,9 +71,6 @@ output: slidy_presentation
     * How? Describe methodology
     * What will be the result, output, and/or visualisation
 
-<<<<<<< HEAD
-=======
-* Submit your project proposal to blackboard before end of the day
 
->>>>>>> dd6f637850bb369e461f8941545ba28047eef0af
+* Submit your project proposal to GitLab before 1730u today so the the other team can review the excercise.
 
