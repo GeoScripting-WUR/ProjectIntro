@@ -73,4 +73,4 @@ output: slidy_presentation
 
 
 * Submit your project proposal to GitLab before 1730u today so the the other team can review the excercise.
-
+* Submit as a short readable text file (i.e. .txt format) - no layout, certainly, no pdf or word doc.
