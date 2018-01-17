@@ -18,7 +18,6 @@ output: slidy_presentation
 
 * Objective
     * Demonstrate scripting skills in a spatial oriented challenge
-    * Develop a reproducible RStudio project that does something geo-cool!
     * Demonstrating capacity to read, visualize, and write spatial data that other can use
     * Using basic scripting concepts for handling spatial data
     * Using different functions and libraries (e.g. try out new libraries)
@@ -27,8 +26,7 @@ output: slidy_presentation
 ## The geo-challenge
 
 * Planning
-    * 4 full days for project work
-    * Monday - Thursday
+    * 4 days for project work
   
 * Deadline
     * GitLab link deadline by Thursday (14u)
@@ -43,11 +41,11 @@ output: slidy_presentation
 
 * Deliverables:
     * A project that is reproducible and produces a result (map, analysis) for your presentation
-    * Submit the project via a Git Repository
+    * Submit the project via GitLab Repository
     * A presentation where you explain
         * objective
-        * method i.e. workflow
-        * result by some nice visualisation (map, output, analysis)
+        * workflow
+        * results by some nice visualisation (map, output, analysis)
         * what have you learned? 
 
 ## Example geo-challenges
@@ -62,7 +60,7 @@ output: slidy_presentation
 * Teams?!
     - You can work on your own or teams of two
 
-## Assignment for today: Lesson08
+## Assignment for today
 
 * Write a project proposal of half a page that contains:
     * Team name and members
@@ -72,5 +70,5 @@ output: slidy_presentation
     * What will be the result, output, and/or visualisation
 
 
-* Submit your project proposal to GitLab before 1730u today so the the other team can review the excercise.
-* Submit as a short readable text file (i.e. .txt format) - no layout, certainly, no pdf or word doc.
+* Submit your project proposal to GitLab before 1730u today so the the other team can review.
+* Submit as a short readable text file (i.e. .txt format) - no layout, certainly no pdf or word doc just text as a simple file.
