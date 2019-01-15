@@ -7,7 +7,7 @@ output: slidy_presentation
 
 ## Today in the morning
 
-* Think about a feasible, concise, scripting challenge  (see next slides)
+* Think about a feasible, concise, scripting challenge (see next slides)
 * Check the question and answers forum
 
 ## overall tips and tricks
@@ -54,6 +54,7 @@ output: slidy_presentation
 * A simple challenge or question is good as long as you apply and demonstrated geo-scripting skills
 * Examples:
     - [We have some topics available](https://geoscripting-wur.github.io/ProjectIntro/topics.html)
+* Two projects of last year will be presented during the lecture today by the student assistents.
 
 ## The geo-challenge
 
@@ -62,15 +63,20 @@ output: slidy_presentation
 
 ## Assignment for today
 
-* Write a project proposal of half a page that contains:
+* Write a consice project proposal of maximum one page that contains (bullet points is OK):
     * Team name and members
     * Geo-challenge title and objective
     * Task 1: What? short description of what you want to do
+        * Define the aim of your project, for example by formulating a research question.
     * Task 2: How? Describe methodology and data set
-        * Is the data available?
-        * Can you access it via a script?
-    * Task 3: What will be the result, output, and/or visualisation
+        * Provide a link to the data and describe the metadata (author, date, extent, resoltion, etc.)
+        * Can it be accessed via a script, and how (i.e. API or download link)?
+    * Task 3: Result and discussion
+        * What will be the result, output, and/or visualisation?
+        * Which R/Python packages will you use to achieve this?
+        * What challenges or issues do you foresee? 
+        
 
 * Submit your project proposal to GitLab before 1630u today so the the other team can review.
-* Submit as a short readable structured text file (i.e. .txt format)
+* Submit as a short readable structured text file (i.e. .txt or .md format)
     * make sure that it is easily readable
