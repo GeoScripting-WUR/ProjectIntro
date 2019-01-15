@@ -65,10 +65,12 @@ output: slidy_presentation
 * Write a project proposal of half a page that contains:
     * Team name and members
     * Geo-challenge title and objective
-    * What? short description of what you want to do
-    * How? Describe methodology
-    * What will be the result, output, and/or visualisation
+    * Task 1: What? short description of what you want to do
+    * Task 2: How? Describe methodology and data set
+        * Is the data available?
+        * Can you access it via a script?
+    * Task 3: What will be the result, output, and/or visualisation
 
-
-* Submit your project proposal to GitLab before 1730u today so the the other team can review.
-* Submit as a short readable text file (i.e. .txt format) - no layout, certainly no pdf or word doc just text as a simple file.
+* Submit your project proposal to GitLab before 1630u today so the the other team can review.
+* Submit as a short readable structured text file (i.e. .txt format)
+    * make sure that it is easily readable
