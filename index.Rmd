@@ -9,10 +9,7 @@ output: slidy_presentation
 
 * Think about a feasible, concise, scripting challenge (see next slides)
 * Check the question and answers forum
-
-## overall tips and tricks
-
-- R-SIG-GEO? Who knows what this is?
+* Finalise the DataCamp assignment
 
 ## The geo-challenge
 
@@ -29,12 +26,13 @@ output: slidy_presentation
     * 4 days for project work
   
 * Deadline
-    * GitLab link deadline by Thursday (14u)
+    * GitLab link deadline by Thursday 31/01/2019 (14u)
     * After that one other team needs to review the project of the other team
-    * Submit presentation (pdf) to Blackboard - Script Review Center - before the end of the day
+    * Submit presentation (pdf) to Blackboard - Script Review Center - before 9 am (1/02/2019)
 
 * Friday final week 
-    * Presentation (5 minute presentation + 5 feedback of the other team and questions from the group)
+    * Presentation (5 minute presentation + 3 minutes feedback by the other team using the rubric
+    and questions from the group)
     * Evaluation by expert jury panel
 
 ## The geo-challenge
@@ -63,7 +61,7 @@ output: slidy_presentation
 
 ## Assignment for today
 
-* Write a consice project proposal of maximum one page that contains (bullet points is OK):
+* Write a consice project proposal of *maximum one page* that contains (bullet points is OK):
     * Team name and members
     * Geo-challenge title and objective
     * Task 1: What? short description of what you want to do
@@ -80,3 +78,4 @@ output: slidy_presentation
 * Submit your project proposal to GitLab before 1630u today so the the other team can review.
 * Submit as a short readable structured text file (i.e. .txt or .md format)
     * make sure that it is easily readable
+    * https://www.markdownguide.org/cheat-sheet/
