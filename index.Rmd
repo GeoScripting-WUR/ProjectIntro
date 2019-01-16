@@ -7,18 +7,19 @@ output: slidy_presentation
 
 ## Today in the morning
 
+* Finalize the DataCamp assignment
 * Think about a feasible, concise, scripting challenge (see next slides)
-* Check the question and answers forum
-* Finalise the DataCamp assignment
+* Check the [*Question and Answers*](http://www.geo-informatie.nl/courses/grs33806/question2answer/) forum and try to answer one question
+
 
 ## The geo-challenge
 
 * Objective
     * Demonstrate scripting skills in a spatial oriented challenge
-    * Demonstrating capacity to read, visualize, and write spatial data that other can use
-    * Using basic scripting concepts for handling spatial data
-    * Using different functions and libraries (e.g. try out new libraries)
-    * Writing a clear, structured and well documented project that is understandable by others
+    * Demonstrate capacity to read, visualize, and write spatial data that other can use
+    * Use basic scripting concepts for handling spatial data
+    * Use different functions and libraries (e.g. try out new libraries)
+    * Write a clear, structured and well documented project that is understandable by others
 
 ## The geo-challenge
 
@@ -28,7 +29,7 @@ output: slidy_presentation
 * Deadline
     * GitLab link deadline by Thursday 31/01/2019 (14u)
     * After that one other team needs to review the project of the other team
-    * Submit presentation (pdf) to Blackboard - Script Review Center - before 9 am (1/02/2019)
+    * Submit presentation (pdf) to Blackboard - Script Review Center - before 9 am on Friday morning 1/02/2019
 
 * Friday final week 
     * Presentation (5 minute presentation + 3 minutes feedback by the other team using the rubric
@@ -39,20 +40,20 @@ output: slidy_presentation
 
 * Deliverables:
     * A project that is reproducible and produces a result (map, analysis) for your presentation
-    * Submit the project via GitLab Repository
+    * Submit the project via a GitLab Repository
     * A presentation where you explain
         * objective
         * workflow
-        * results by some nice visualisation (map, output, analysis)
+        * results by some clear visualization (map, output, analysis)
         * what have you learned? 
 
 ## Example geo-challenges
 
-* First identify a data set that you can use (e.g. data available for download, etc.). You need to have a small (!) dataset that you can `analyse`.
-* A simple challenge or question is good as long as you apply and demonstrated geo-scripting skills
-* Examples:
+- First identify a data set that you can use (e.g. data available for download, etc.). You need to have a small (!) data set that you can `analyse`.
+- A simple challenge or question is good as long as you apply and demonstrated geo-scripting skills
+- Examples:
     - [We have some topics available](https://geoscripting-wur.github.io/ProjectIntro/topics.html)
-* Two projects of last year will be presented during the lecture today by the student assistents.
+- **Two projects of last year will be presented during the lecture today by the student assistents**
 
 ## The geo-challenge
 
@@ -61,19 +62,23 @@ output: slidy_presentation
 
 ## Assignment for today
 
-* Write a consice project proposal of *maximum one page* that contains (bullet points is OK):
+- Write a concise project proposal of *maximum one page* that contains (**bullet points are OK!**):
     * Team name and members
     * Geo-challenge title and objective
     * Task 1: What? short description of what you want to do
         * Define the aim of your project, for example by formulating a research question.
     * Task 2: How? Describe methodology and data set
-        * Provide a link to the data and describe the metadata (author, date, extent, resoltion, etc.)
+        * Provide a link to the data and describe the metadata (author, date, extent, resolution, etc.)
         * Can it be accessed via a script, and how (i.e. API or download link)?
+        * Estimate how large the data set will be for your project
+            - e.g. do this by a little test download of one file unless you decide to work in https://earthengine.google.com/
+            - **Important here is to keep the data set small!**
     * Task 3: Result and discussion
-        * What will be the result, output, and/or visualisation?
+        * What will be the result, output, and/or visualization?
         * Which R/Python packages will you use to achieve this?
         * What challenges or issues do you foresee? 
         
+## Submission 
 
 * Submit your project proposal to GitLab before 1630u today so the the other team can review.
 * Submit as a short readable structured text file (i.e. .txt or .md format)
