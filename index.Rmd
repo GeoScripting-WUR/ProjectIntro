@@ -17,7 +17,6 @@ output: slidy_presentation
 * Objective
     * Demonstrate scripting skills in a spatial oriented challenge
     * Demonstrate capacity to read, visualize, and write spatial data that other can use
-    * Use basic scripting concepts for handling spatial data
     * Use different functions and libraries (e.g. try out new libraries)
     * Write a clear, structured and well documented project that is understandable by others
 
@@ -63,11 +62,11 @@ output: slidy_presentation
 ## Assignment for today
 
 - Write a concise project proposal of *maximum one page* that contains (**bullet points are OK!**):
-    * Team name and members
-    * Geo-challenge title and objective
-    * Task 1: What? short description of what you want to do
+    - Team name and members
+    - Geo-challenge title and objective
+    - Task 1: **What?** short description of what you want to do
         * Define the aim of your project, for example by formulating a research question.
-    * Task 2: How? Describe methodology and data set
+    - Task 2: **How?** Describe methodology and data set
         * Provide a link to the data and describe the metadata (author, date, extent, resolution, etc.)
         * Can it be accessed via a script, and how (i.e. API or download link)?
         * Estimate how large the data set will be for your project
