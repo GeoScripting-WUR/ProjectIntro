@@ -28,7 +28,8 @@ output: slidy_presentation
 * Deadline
     * GitLab link deadline by Thursday 31/01/2019 (14u)
     * After that one other team needs to review the project of the other team
-    * Submit presentation (pdf) to Blackboard - Script Review Center - before 9 am on Friday morning 1/02/2019
+    * Submit presentation to Gitlab before Thursday 31/01/2019 (18u)
+        - follow the correct naming: **Geoscripting2019-FinalProject-Teamname**
 
 * Friday final week 
     * Presentation (5 minute presentation + 3 minutes feedback by the other team using the rubric
