@@ -50,7 +50,6 @@ output: slidy_presentation
 - Python, R, both, other programming/scripting languages are fine.
 - Examples:
     - [We have some topics available](https://geoscripting-wur.github.io/ProjectIntro/topics.html)
-- **Two projects of last year will be presented during the lecture today by the student assistents**
 
 ## The geo-challenge
 
@@ -59,13 +58,17 @@ output: slidy_presentation
 
 ## Assignment for today
 
-- Create a repository for your project. Naming: *2020_ScriptingProject_Teamname*
+- See https://github.com/geoscripting-2020/Project-Starter
+- Fork, Rename, Clone your project
 - Modify the README.md file and add the text below
     - https://www.markdownguide.org/cheat-sheet/
-- Write a concise project proposal of *maximum 1/5 page*
+- Write a concise project proposal of 
+    - *maximum 1/5 page*
     - **bullet points are OK!**
 
 ## Assignment for today
+
+In the README.md:
 
 - Team name and members
 - Geo-challenge title and objective
@@ -86,7 +89,8 @@ output: slidy_presentation
 ## Submission Deadline
 
 * Submit your proposal before: 
-    - Next week Monday 12u so that the other team can review
-    - review before the end of the day 16u.
+    - Tuesday 21/01 12u
+    - Review before 16u 21/01
+    - Joint status update on Wednesday 22/01 after 14u
     
     
