@@ -18,25 +18,16 @@ output: slidy_presentation
 * Planning
     * 4 days for project work
   
-* Deadline
-    * Brightspace CodeGrade Deadline: see course guide and brightspace.
-    * After that one other team needs to review the project of the other team (via pull request/reviewing)
-    * Submit presentation (deadline)
-        - follow the correct naming: **Geoscripting2020-FinalProject-Teamname**
-        for your repository and also slides
-        
-* Friday final week 
-    * Presentation 
-        - 5 minute presentation 
-        - 3 minutes feedback by the other team using the rubric
-    * Evaluation by expert jury panel
+* Friday final week, per team
+    - 5 minute presentation 
+    - 3 minutes feedback by the other team using the rubric
+* Evaluation by expert jury panel
 
 ## The geo-challenge
 
 * Deliverables:
-    * A project that is reproducible
+    * A project, repository, that is reproducible
     * Produces a result (map, analysis) for your presentation
-    * Submit the project via a GitLab Repository - then to BrightSpace/CodeGrade
     * A presentation where you explain
         * objective
         * workflow
@@ -45,7 +36,8 @@ output: slidy_presentation
 
 ## Example geo-challenges
 
-- First identify a data set that you can use (e.g. data available for download, etc.). You need to have a small (!) data set that you can `analyse`.
+- First identify a data set that you can use (e.g. data available for download, etc.). 
+You need to have a small (!) data set that you can `analyse`.
 - A simple challenge or question is good as long as you apply and demonstrated **geo-scripting skills**
 - Python, R, both, other programming/scripting languages are fine.
 - Examples:
@@ -59,7 +51,9 @@ output: slidy_presentation
 ## Assignment for today
 
 - See https://github.com/geoscripting-2020/Project-Starter
-- Fork, Rename, Clone your project
+  - Fork 
+  - Add teamname
+  - Clone your project
 - Modify the README.md file and add the text below
     - https://www.markdownguide.org/cheat-sheet/
 - Write a concise project proposal of 
@@ -90,7 +84,6 @@ In the README.md:
 
 * Submit your proposal before: 
     - Tuesday 21/01 12u
-    - Review before 16u 21/01
+    - Review the other team before 16u 21/01, via pull request/reviewing
     - Joint status update on Wednesday 22/01 after 14u
-    
     
