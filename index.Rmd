@@ -5,13 +5,6 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: slidy_presentation
 ---
 
-## Today in the morning
-
-* Finalize the DataCamp assignment
-* Think about a feasible, concise, scripting challenge (see next slides)
-* Check the [*Question and Answers*](http://www.geo-informatie.nl/courses/grs33806/question2answer/) forum and try to answer one question
-
-
 ## The geo-challenge
 
 * Objective
@@ -26,21 +19,24 @@ output: slidy_presentation
     * 4 days for project work
   
 * Deadline
-    * GitLab link deadline by Thursday 31/01/2019 (14u)
-    * After that one other team needs to review the project of the other team
-    * Submit presentation to Gitlab before Thursday 31/01/2019 (18u)
-        - follow the correct naming: **Geoscripting2019-FinalProject-Teamname**
-
+    * Brightspace CodeGrade Deadline: see course guide and brightspace.
+    * After that one other team needs to review the project of the other team (via pull request/reviewing)
+    * Submit presentation (deadline)
+        - follow the correct naming: **Geoscripting2020-FinalProject-Teamname**
+        for your repository and also slides
+        
 * Friday final week 
-    * Presentation (5 minute presentation + 3 minutes feedback by the other team using the rubric
-    and questions from the group)
+    * Presentation 
+        - 5 minute presentation 
+        - 3 minutes feedback by the other team using the rubric
     * Evaluation by expert jury panel
 
 ## The geo-challenge
 
 * Deliverables:
-    * A project that is reproducible and produces a result (map, analysis) for your presentation
-    * Submit the project via a GitLab Repository
+    * A project that is reproducible
+    * Produces a result (map, analysis) for your presentation
+    * Submit the project via a GitLab Repository - then to BrightSpace/CodeGrade
     * A presentation where you explain
         * objective
         * workflow
@@ -50,7 +46,8 @@ output: slidy_presentation
 ## Example geo-challenges
 
 - First identify a data set that you can use (e.g. data available for download, etc.). You need to have a small (!) data set that you can `analyse`.
-- A simple challenge or question is good as long as you apply and demonstrated geo-scripting skills
+- A simple challenge or question is good as long as you apply and demonstrated **geo-scripting skills**
+- Python, R, both, other programming/scripting languages are fine.
 - Examples:
     - [We have some topics available](https://geoscripting-wur.github.io/ProjectIntro/topics.html)
 - **Two projects of last year will be presented during the lecture today by the student assistents**
@@ -62,25 +59,34 @@ output: slidy_presentation
 
 ## Assignment for today
 
-- Write a concise project proposal of *maximum one page* that contains (**bullet points are OK!**):
-    - Team name and members
-    - Geo-challenge title and objective
-    - Task 1: **What?** short description of what you want to do
-        * Define the aim of your project, for example by formulating a research question.
-    - Task 2: **How?** Describe methodology and data set
-        * Provide a link to the data and describe the metadata (author, date, extent, resolution, etc.)
-        * Can it be accessed via a script, and how (i.e. API or download link)?
-        * Estimate how large the data set will be for your project
-            - e.g. do this by a little test download of one file unless you decide to work in https://earthengine.google.com/
-            - **Important here is to keep the data set small!**
-    * Task 3: Result and discussion
-        * What will be the result, output, and/or visualization?
-        * Which R/Python packages will you use to achieve this?
-        * What challenges or issues do you foresee? 
-        
-## Submission 
+- Create a repository for your project. Naming: *2020_ScriptingProject_Teamname*
+- Modify the README.md file and add the text below
+    - https://www.markdownguide.org/cheat-sheet/
+- Write a concise project proposal of *maximum 1/5 page*
+    - **bullet points are OK!**
 
-* Submit your project proposal to GitLab before 1630u today so the the other team can review.
-* Submit as a short readable structured text file (i.e. .txt or .md format)
-    * make sure that it is easily readable
-    * https://www.markdownguide.org/cheat-sheet/
+## Assignment for today
+
+- Team name and members
+- Geo-challenge title and objective
+- Task 1: **Why?** short description of what you want to do
+    * Define the aim or question of your project
+    
+- Task 2: **What?** Describe data set
+    * Provide a link to the data and describe the metadata (author, date, extent, resolution, etc.)
+    * Can it be accessed via a script, and how (i.e. API or download link)?
+    * Estimate how large the data set will be for your project
+        - e.g. do this by a little test download of one file unless you decide to work in https://earthengine.google.com/
+        - **Important here is to keep the data set small!**
+        
+* Task 3: **How?**: Methods and potential results
+    * Which R/Python packages will you use to achieve this?
+    * What will be the result, output, and/or visualization?
+
+## Submission Deadline
+
+* Submit your proposal before: 
+    - Next week Monday 12u so that the other team can review
+    - review before the end of the day 16u.
+    
+    
