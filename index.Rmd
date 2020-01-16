@@ -56,8 +56,11 @@ You need to have a small (!) data set that you can `analyse`.
   - Clone your project
 - Modify the README.md file and add the text below
     - https://www.markdownguide.org/cheat-sheet/
+    - https://markdown-it.github.io/
+    (very nice markdown examples!)
+    
 - Write a concise project proposal of 
-    - *maximum 1/5 page*
+    - *maximum 1/2 page*
     - **bullet points are OK!**
 
 ## Assignment for today
