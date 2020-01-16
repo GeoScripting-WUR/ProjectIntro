@@ -40,8 +40,6 @@ output: slidy_presentation
 You need to have a small (!) data set that you can `analyse`.
 - A simple challenge or question is good as long as you apply and demonstrated **geo-scripting skills**
 - Python, R, both, other programming/scripting languages are fine.
-- Examples:
-    - [We have some topics available](https://geoscripting-wur.github.io/ProjectIntro/topics.html)
 
 ## The geo-challenge
 
