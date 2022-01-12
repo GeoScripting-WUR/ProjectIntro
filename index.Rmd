@@ -46,15 +46,15 @@ You need to have a small (!) data set that you can *analyse*.
 ## The geo-challenge
 
 * Teams?!
-    - You can work on your own or teams of two
+    - You can work with a teams of four but for today submit a topic in your current team
     - Starter repositories have been created according to the current teams
     - Let us know in case you want to change your team so we can recreate them!
 
 ## Exercise for today
 
-- See [https://github.com/geoscripting-2021/Project_Starter](https://github.com/geoscripting-2021/Project_Starter)-TeamName
-  - Clone your project
+  - Clone your Project_Starter
   - Add team name
+  - Give the number of the topic you choose, or whether you will work on your own topic
 - Modify the README.md file and add the text as per next slide
     - https://www.markdownguide.org/cheat-sheet/
     - https://markdown-it.github.io/
@@ -63,7 +63,7 @@ You need to have a small (!) data set that you can *analyse*.
 - Write a concise project proposal of 
     - *maximum 1/2 page*
     - **bullet points are OK!**
-- Open an issue on https://github.com/geoscripting-2021/Project-Starter with your team name as a title and a link to your repository
+- Peer-review on Codegrade - two other teams
 
 ## Exercise for today
 
@@ -88,5 +88,5 @@ In the README.md:
 
 * Inform us about team changes ASAP
 * Submit your proposal **before the exam (next Friday)**
-* Review the other teams **after the exam** (before Saturday), via issues **on https://github.com/geoscripting-2021/Project_Starter**
+* Review the other teams **after the exam** (before Saturday), via Codegrade
 * If you get a NO GO, make changes ASAP on Monday (January 25) morning - all proposals must be approved then
