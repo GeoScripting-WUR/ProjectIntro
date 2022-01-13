@@ -20,8 +20,8 @@ output: slidy_presentation
     * 4 days for project work (Mon-Thu)
     * Thursday: make slides until 15:00, submit to MS Teams; then review two other teams
 * On Friday of the final week, per team:
-    - 5 minute presentation 
-    - 3 minutes feedback by the other team using the rubric (see CodeGrade)
+    - 10 minute presentation 
+    - 5 minutes feedback by the other team using the rubric (see CodeGrade)
 
 ## The geo-challenge
 
@@ -38,6 +38,7 @@ output: slidy_presentation
 
 ## Example geo-challenges
 
+- See Brightspace for predefined challenge topics and datasets
 - First identify a data set that you can use (e.g. data available for download, etc.). 
 You need to have a small (!) data set that you can *analyse*.
 - A simple challenge or question is good as long as you apply and demonstrate **geoscripting skills**.
@@ -46,14 +47,13 @@ You need to have a small (!) data set that you can *analyse*.
 ## The geo-challenge
 
 * Teams?!
-    - You can work with a teams of four but for today submit a topic in your current team
+    - You will work in a team of four, but for today submit a topic in your current team
     - Starter repositories have been created according to the current teams
-    - Let us know in case you want to change your team so we can recreate them!
+    - Let us know if you already know which other team you want to work with in the project
 
 ## Exercise for today
 
-  - Clone your Project_Starter
-  - Add team name
+  - Edit your Project_Proposal_Starter
   - Give the number of the topic you choose, or whether you will work on your own topic
 - Modify the README.md file and add the text as per next slide
     - https://www.markdownguide.org/cheat-sheet/
@@ -69,7 +69,8 @@ You need to have a small (!) data set that you can *analyse*.
 
 In the README.md:
 
-- Team name and members, project title and objective
+- Name for the 4-member team and list of members (if you already know this)
+- Project title and objective
 - Task 1: **Why?** short description of what you want to do
     * Define the aim or question of your project
     
@@ -77,7 +78,7 @@ In the README.md:
     * Provide a link to the data and describe the metadata (author, date, extent, resolution, etc.)
     * Can it be accessed via a script, and how (i.e. API or download link)?
     * Estimate how large the data set will be for your project
-        - e.g. do this by a little test download of one file unless you decide to work in https://earthengine.google.com/
+        - e.g. do this by a little test download of one file unless you decide to work in https://code.earthengine.google.com/
         - **Important here is to keep the data set small!**
         
 * Task 3: **How?**: Methods and potential results
@@ -87,6 +88,7 @@ In the README.md:
 ## Submission Deadlines
 
 * Inform us about team changes ASAP
-* Submit your proposal **before the exam (next Friday)**
-* Review the other teams **after the exam** (before Saturday), via Codegrade
+* Submit your proposal **before next Friday 15:00** (ideally before the exam)
+* Review the other teams **after the exam** (before **18:00**), via Codegrade
 * If you get a NO GO, make changes ASAP on Monday (January 25) morning - all proposals must be approved then
+* On Monday morning you will know which group you are working together with and will get your Project starter repository
