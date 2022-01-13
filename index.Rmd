@@ -12,13 +12,12 @@ output: slidy_presentation
     * Demonstrate capacity to read, visualize, and write spatial data in a project that others can use
     * Use different functions and libraries (e.g. try out new libraries)
     * Write a clear, structured and well documented project that is understandable by others
-* See also the rubric on CodeGrade! Emphasis is on reproducibility, use of novel libraries/functions and efficiency of implementation (e.g. avoiding for loops).
+* See also the rubric on CodeGrade
 
 ## The geo-challenge
 
 * Planning
     * 4 days for project work (Mon-Thu)
-    * Thursday: make slides until 15:00, submit to MS Teams; then review two other teams
 * On Friday of the final week, per team:
     - 10 minute presentation 
     - 5 minutes feedback by the other team using the rubric (see CodeGrade)
@@ -38,16 +37,16 @@ output: slidy_presentation
 
 ## Example geo-challenges
 
-- See Brightspace for predefined challenge topics and datasets
+- See Brightspace for predefined challenge topics and data sets
 - First identify a data set that you can use (e.g. data available for download, etc.). 
-You need to have a small (!) data set that you can *analyse*.
-- A simple challenge or question is good as long as you apply and demonstrate **geoscripting skills**.
+    - a small (!) data set that you can *analyse*.
+- A simple challenge so that you can apply and demonstrate **geoscripting skills**.
 - Python, R, Bash, GEE, all, other programming/scripting languages are fine.
 
 ## The geo-challenge
 
 * Teams?!
-    - You will work in a team of four, but for today submit a topic in your current team
+    - You will work in a team of four, but for **today** submit a topic in your current team
     - Starter repositories have been created according to the current teams
     - Let us know if you already know which other team you want to work with in the project
 
@@ -71,7 +70,7 @@ In the README.md:
 
 - Name for the 4-member team and list of members (if you already know this)
 - Project title and objective
-- Task 1: **Why?** short description of what you want to do
+- Task 1: **Why?**
     * Define the aim or question of your project
     
 - Task 2: **What?** Describe data set
@@ -82,7 +81,7 @@ In the README.md:
         - **Important here is to keep the data set small!**
         
 * Task 3: **How?**: Methods and potential results
-    * Which R/Python packages will you use to achieve this?
+    * Which functionality or approach will you use to achieve this?
     * What will be the result, output, and/or visualization?
 
 ## Submission Deadlines
@@ -90,5 +89,6 @@ In the README.md:
 * Inform us about team changes ASAP
 * Submit your proposal **before next Friday 15:00** (ideally before the exam)
 * Review the other teams **after the exam** (before **18:00**), via Codegrade
-* If you get a NO GO, make changes ASAP on Monday (January 25) morning - all proposals must be approved then
+* If you get a NO GO, make changes ASAP 
+* **on Monday (January 25) morning - all proposals must be approved then**
 * On Monday morning you will know which group you are working together with and will get your Project starter repository
