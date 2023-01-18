@@ -43,12 +43,17 @@ output: slidy_presentation
 - A simple challenge so that you can apply and demonstrate **geoscripting skills**.
 - Python, R, Bash, GEE, all, other programming/scripting languages are fine.
 
-## The geo-challenge
+## Teams?!
 
-* Teams?!
-    - You will work in a team of four, but for **today** submit a topic in your current team
-    - Starter repositories have been created according to the current teams
-    - Let us know if you already know which other team you want to work with in the project
+- You will work in a team of four, but for the time being submit a topic in your current team
+- If you already know what other team you want to work with, in wich case:
+  - Write a joint proposal and submit the same proposal for both pairs
+- If not:
+  - Write your own proposal, indicate whether it is on one of the predefined challenge topics
+  - You will be merged with another group that proposed a similar topic
+  - You will work according to the better proposal from the two
+- Starter repositories have been created according to the current teams
+- Feedback, as well as go/no-go, will be given in CodeGrade
 
 ## Exercise for today
 
@@ -87,8 +92,25 @@ In the README.md:
 ## Submission Deadlines
 
 * Inform us about team changes ASAP
-* Submit your proposal **before next Friday 15:00** (ideally before the exam)
-* Review the other teams **after the exam** (before **18:00**), via Codegrade
+* Submit your proposal **before next Friday 15:30** (ideally before the exam)
+* Review the other teams **after the exam** (before **18:30**), via Codegrade
 * If you get a NO GO, make changes ASAP 
-* **on Monday (January 25) morning - all proposals must be approved then**
-* On Monday morning you will know which group you are working together with and will get your Project starter repository
+* **On Monday (January 30) morning - all proposals must be approved then**
+* By Monday morning you will know which group you are working together with and will get your Project starter repository. You can already start working on acquiring the data.
+
+## Work during the project week
+
+* We have three rooms, so you can work in a more quiet environment
+* You will be assigned to a room by the start of the project week: check myWURtoday and/or Brightspace groups
+* Someone will be around throughout the day - but not necessarily in your room.
+We will walk around, but if you have an urgent question, you can also look into the different rooms.
+* File storage: you can make use of MS Teams Files tab
+  - You don't need to make file download completely reproducible!
+  - Small datasets are better than big datasets
+* Put the presentation files into MS Teams Files tab as well (in your room's subdirectory)
+
+## Final presentation day
+
+* We will have three parallel sessions for presentations, based on topic themes (tied to the room you are working in - again see myWURtoday or Brightspace)
+* After the presentations, we will go to a plenary session for awards, picture and discussion about the course set up
+
