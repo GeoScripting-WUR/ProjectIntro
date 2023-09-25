@@ -1,7 +1,7 @@
 ---
 title: "Project Introduction"
-author: "Jan Verbesselt and Dainius Masiliūnas"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+author: "Dainius Masiliūnas and Jan Verbesselt"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
 output: slidy_presentation
 ---
 
@@ -9,25 +9,25 @@ output: slidy_presentation
 
 * Objective
     * Demonstrate scripting skills in a spatial scripting challenge
-    * Demonstrate capacity to read, visualize, and write spatial data in a project that others can use
-    * Use different functions and libraries (e.g. try out new libraries)
-    * Write a clear, structured and well documented project that is understandable by others
+    * Choose or come up with an original and novel topic
+    * Write code using packages you haven't used before, make complex reusable functions with efficient code to handle spatial data
+    * Make code reproducible and document well, use project structure, make good use of git
+    * Create an interactive presentation and visualisation (e.g. dashboard, storymap, app, etc.)
 * See also the rubric on CodeGrade
 
 ## The geo-challenge
 
 * Planning
-    * 4 days for project work (Mon-Thu)
-* On Friday of the final week, per team:
-    - 10 minute presentation 
-    - 5 minutes feedback by the other team using the rubric (see CodeGrade)
+    * 8 days for project work (Mon-Wed)
+    * Last Thursday: make interactive posters and give peer feedback
+    * Last Friday: interactive digital poster session
 
 ## The geo-challenge
 
 * Deliverables:
     * A project, repository, that is reproducible
     * Produces a result (map, analysis) for your presentation
-    * A presentation where you explain
+    * An interactive poster where you explain
         * objective
         * workflow
         * results by using a clear visualization (demo, map, output, analysis)
@@ -46,10 +46,10 @@ output: slidy_presentation
 ## Teams?!
 
 - You will work in a team of four, but for the time being submit a topic in your current team
-- If you already know what other team you want to work with, in wich case:
+- If you already know what other team you want to work with, in which case:
   - Write a joint proposal and submit the same proposal for both pairs
 - If not:
-  - Write your own proposal, indicate whether it is on one of the predefined challenge topics
+  - Write your own proposal, indicate whether it is on one of the predefined challenge topics or a custom topic
   - You will be merged with another group that proposed a similar topic
   - You will work according to the better proposal from the two
 - Starter repositories have been created according to the current teams
@@ -64,53 +64,53 @@ output: slidy_presentation
     - https://markdown-it.github.io/
     (very nice markdown examples!)
     
-- Write a concise project proposal of 
-    - *maximum 1/2 page*
-    - **bullet points are OK!**
+- Write a concise scientific proposal (one paragraph for each heading is fine, can include lists)
 - Peer-review on Codegrade - two other teams
 
 ## Exercise for today
 
 In the README.md:
 
-- Name for the 4-member team and list of members (if you already know this)
-- Project title and objective
-- Task 1: **Why?**
-    * Define the aim or question of your project
+- Name for the 4-member team and list of members (if you already know this) & Project title
+- Task 1: Research questions (**Why?**)
+    * Define the aim or question(s) of your project, phrased as questions to answer
+    * Be very concrete and specific, also quantitative
+    * e.g. "How well can Random Forest classify trees, grassland and crops in the Gewata region?"
     
-- Task 2: **What?** Describe data set
+- Task 2: Data (**What?**)
     * Provide a link to the data and describe the metadata (author, date, extent, resolution, etc.)
     * Can it be accessed via a script, and how (i.e. API or download link)?
     * Estimate how large the data set will be for your project
-        - e.g. do this by a little test download of one file unless you decide to work in https://code.earthengine.google.com/
-        - **Important here is to keep the data set small!**
+        - e.g. do this by a little test download of one file unless you decide to work in Google Earth Engine
+        - **Important here is to keep the data set small!** e.g. below 500 MiB
         
-* Task 3: **How?**: Methods and potential results
-    * Which functionality or approach will you use to achieve this?
+* Task 3: Methods (**How?**)
+    * Which functionality or approach will you use to achieve this? Can you already name new packages you will want to try out?
     * What will be the result, output, and/or visualization?
 
-## Submission Deadlines
+## Proposal submission deadlines
 
 * Inform us about team changes ASAP
-* Submit your proposal **before next Friday 15:30** (ideally before the exam)
-* Review the other teams **after the exam** (before **18:30**), via Codegrade
+* Submit your proposal **before next Friday 16:00**
+* Review the other teams **before 17:10**, via Codegrade
 * If you get a NO GO, make changes ASAP 
-* **On Monday (January 30) morning - all proposals must be approved then**
-* By Monday morning you will know which group you are working together with and will get your Project starter repository. You can already start working on acquiring the data.
+* **By Monday end of the day - all proposals must be approved then**
+* By Monday afternoon you will know which group you are working together with and will get your Project starter repository. You can already start working on acquiring the data.
 
 ## Work during the project week
 
-* We have three rooms, so you can work in a more quiet environment
-* You will be assigned to a room by the start of the project week: check myWURtoday and/or Brightspace groups
-* Someone will be around throughout the day - but not necessarily in your room.
-We will walk around, but if you have an urgent question, you can also look into the different rooms.
+* We have room B9216+B9218 in Aurora for the whole two weeks
+  * WeConnect: your team can all connect to a screen, follow the instructions at [https://wur-studentsupport.screenstepslive.com/m/104769/l/1620176-how-to-get-started-with-weconnect](https://wur-studentsupport.screenstepslive.com/m/104769/l/1620176-how-to-get-started-with-weconnect)
+  * If you want a more quiet working environment, you can book a group room through [https://te.wur.nl/](https://te.wur.nl/), though note that the support will be in B9216+B9218 (or online)
 * File storage: you can make use of MS Teams Files tab
   - You don't need to make file download completely reproducible!
   - Small datasets are better than big datasets
-* Put the presentation files into MS Teams Files tab as well (in your room's subdirectory)
+  - Put the presentation files into MS Teams Files tab as well
 
 ## Final presentation day
 
-* We will have three parallel sessions for presentations, based on topic themes (tied to the room you are working in - again see myWURtoday or Brightspace)
-* After the presentations, we will go to a plenary session for awards, picture and discussion about the course set up
+* We will have two sessions for the interactive presentations using WeConnect screens:
+  * 10 groups will present, 10 will watch, and then we swap (40 minutes per session)
+  * 5 minutes per presentation, 3 minutes for discussion
+* After the presentations, we will go to a plenary session for awards, picture and feedback about the course
 
