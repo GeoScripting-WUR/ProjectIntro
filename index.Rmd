@@ -47,7 +47,7 @@ output: slidy_presentation
 
 - You will work in a team of four, but for the time being submit a topic in your current team
 - If you already know what other team you want to work with, in which case:
-  - Write a joint proposal and submit the same proposal for both pairs
+  - Write a joint proposal and have only one group submit the proposal for the whole team of four
 - If not:
   - Write your own proposal, indicate whether it is on one of the predefined challenge topics or a custom topic
   - You will be merged with another group that proposed a similar topic
