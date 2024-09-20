@@ -76,7 +76,9 @@ In the README.md:
     * Define the aim or question(s) of your project, phrased as questions to answer
     * Be very concrete and specific, also quantitative
     * e.g. "How well can Random Forest classify trees, grassland and crops in the Gewata region?"
-    
+
+## Exercise for today
+
 - Task 2: Data (**What?**)
     * Provide a link to the data and describe the metadata (author, date, extent, resolution, etc.)
     * Can it be accessed via a script, and how (i.e. API or download link)?
@@ -91,7 +93,7 @@ In the README.md:
 ## Proposal submission deadlines
 
 * Inform us about team changes ASAP
-* Submit your proposal **before next Friday 16:00**
+* Submit your proposal **before Friday the week after, 16:00**
 * Review the other teams **before 17:10**, via Codegrade
 * If you get a NO GO, make changes ASAP 
 * **By Monday end of the day - all proposals must be approved then**
@@ -99,9 +101,8 @@ In the README.md:
 
 ## Work during the project week
 
-* We have room B9216+B9218 in Aurora for the whole two weeks
-  * WeConnect: your team can all connect to a screen, follow the instructions at [https://wur-studentsupport.screenstepslive.com/m/104769/l/1620176-how-to-get-started-with-weconnect](https://wur-studentsupport.screenstepslive.com/m/104769/l/1620176-how-to-get-started-with-weconnect)
-  * If you want a more quiet working environment, you can book a group room through [https://te.wur.nl/](https://te.wur.nl/), though note that the support will be in B9216+B9218 (or online)
+* We have rooms in Leeuwenborch for the whole two weeks, but check on [https://te.wur.nl/](https://te.wur.nl/) when and which!
+* Check out the side screens when you have the opportunity!
 * File storage: you can make use of MS Teams Files tab
   - You don't need to make file download completely reproducible!
   - Small datasets are better than big datasets
@@ -109,8 +110,8 @@ In the README.md:
 
 ## Final presentation day
 
-* We will have two sessions for the interactive presentations using WeConnect screens:
-  * 10 groups will present, 10 will watch, and then we swap (40 minutes per session)
+* We will have two sessions for the interactive presentations using the side screens:
+  * ~10 groups will present (5+5), ~10 will watch, and then we swap (40 minutes per session)
   * 5 minutes per presentation, 3 minutes for discussion
 * After the presentations, we will go to a plenary session for awards, picture and feedback about the course
 
