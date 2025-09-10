@@ -18,16 +18,16 @@ output: slidy_presentation
 ## The geo-challenge
 
 * Planning
-    * 8 days for project work (Mon-Wed)
+    * 8 half-days for project work (Mon-Wed)
     * Last Thursday: make interactive posters and give peer feedback
-    * Last Friday: interactive digital poster session
+    * Last Friday: interactive digital "poster" session
 
 ## The geo-challenge
 
 * Deliverables:
     * A project, repository, that is reproducible
     * Produces a result (map, analysis) for your presentation
-    * An interactive poster where you explain
+    * An interactive "poster" where you explain
         * objective
         * workflow
         * results by using a clear visualization (demo, map, output, analysis)
@@ -55,6 +55,8 @@ output: slidy_presentation
 - Starter repositories have been created according to the current teams
 - Feedback, as well as go/no-go, will be given in CodeGrade
 
+## Questions?
+
 ## Exercise for today
 
   - Edit your Project_Proposal_Starter
@@ -65,7 +67,6 @@ output: slidy_presentation
     (very nice markdown examples!)
     
 - Write a concise scientific proposal (one paragraph for each heading is fine, can include lists)
-- Peer-review on Codegrade - two other teams
 
 ## Exercise for today
 
@@ -93,11 +94,11 @@ In the README.md:
 ## Proposal submission deadlines
 
 * Inform us about team changes ASAP
-* Submit your proposal **before Friday the week after, 16:00**
-* Review the other teams **before 17:10**, via Codegrade
+* Submit your proposal **before Friday September 26, 17:15**
+* Review the other teams **before Monday September 29, 17:15**, via Codegrade
 * If you get a NO GO, make changes ASAP 
-* **By Monday end of the day - all proposals must be approved then**
-* By Monday afternoon you will know which group you are working together with and will get your Project starter repository. You can already start working on acquiring the data.
+* **By Friday October 3 end of the day - all proposals must be approved then**
+* By then you will know which group you are working together with and will get your Project starter repository the following Monday. You can then start working on acquiring the data.
 
 ## Work during the project week
 
