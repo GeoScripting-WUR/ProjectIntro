@@ -13,62 +13,73 @@ output: slidy_presentation
 * Make code reproducible and document well, use project structure, make good use of git
 * Create an interactive presentation and visualisation (e.g. dashboard, storymap, app, etc.)
 
-## The geo-challenge: Deliverables
-
-* A project, repository, that is reproducible
-* Produces a result (map, analysis) for your presentation
-* An interactive poster where you explain
-  * objective
-  * workflow
-  * results by using a clear visualization (demo, map, output, analysis)
-  * what have you learned?
-  * what would you do if you had more time (e.g. 6 months)?
-  * not necessary to show code, optionally snippets to illustrate your point
-
-## The geo-challenge: planning
-
-* 8 days for project work (Mon-Wed)
-* Last Thursday: make interactive posters and give peer feedback
-* Last Friday: interactive digital poster session
-        
 ## Example geo-challenges
 
-- See Brightspace for predefined challenge topics and data sets
-- First identify a data set that you can use (e.g. data available for download, etc.). 
-    - a small (!) data set that you can *analyse*.
+- See your own Exercise 1, and Brightspace for predefined challenge topics and datasets
+- First identify a dataset that you can use (e.g. data available for download, etc.). 
+    - a small (< 1 GB!) dataset that you can *analyse*.
 - A simple challenge so that you can apply and demonstrate **geoscripting skills**.
 - Python, R, Bash, GEE, all, other programming/scripting languages are fine.
 
+## The geo-challenge: Deliverables
+
+1. Project proposal: your specific challenge idea
+1. A project, repository, that is reproducible and produces a result (map, analysis) for your presentation
+  1. If you have external data, put the data files on MS Teams (**NOT** in your Git repository!)
+1. An interactive pitch demonstration of your work where you explain:
+  1. objective
+  1. workflow
+  1. results by using a clear visualization (demo, map, output, analysis)
+  1. what have you learned?
+  1. what would you do if you had more time (e.g. 6 months)?
+* Check the rubrics on [CodeGrade](https://brightspace.wur.nl)!
+
 ## Teams?!
 
-- You will work in a team of four, but for the time being submit a topic in your current team
-- If you already know what other team you want to work with, in which case:
-  - Write a joint proposal and have only one group submit the proposal for the whole team of four
-- If not:
+- You will work in a team of four (2+2), but for the time being submit a topic in your **current** team
+  - You can swap team members, but get consent from everyone involved
+- If you **already know** what other team you want to work with:
+  - Write a joint proposal and have only **one group** submit the proposal for the whole team of four
+  - Remove submissions from CodeGrade if necessary!
+- If you **don't know** whom you want to be in a group of four with:
   - Write your own proposal, indicate whether it is on one of the predefined challenge topics or a custom topic
   - You will be merged with another group that proposed a similar topic
-  - You will work according to the better proposal from the two
-- Starter repositories have been created according to the current teams
-- Feedback, as well as go/no-go, will be given in CodeGrade
+  - You will work according to the **better proposal** from the two
+
+## Proposal submission deadlines
+
+* Submit your proposal **before Wednesday September 30, 17:15**
+* Review the other teams' proposals **before Friday October 2, 17:15**, via Codegrade
+* If you get a NO GO, make changes **before Friday October 2, 17:15 - all proposals must be approved then**
+* By then you will know which group you are working together with and will get your Project starter repository the following Monday. You can then start working on acquiring the data.
+
+## The geo-challenge: planning
+
+* 8 days for project work (Mon-Wed) in a group of four
+* We have Aurora B9010 for the whole two weeks, but check on [https://te.wur.nl/](https://te.wur.nl/) when!
+* Last Thursday: make interactive demonstrations and give peer feedback
+* Last Friday: interactive demo session
+
+## Final presentation day
+
+* We will have two sessions for the interactive presentations using the side screens:
+  * 10 groups will present (5 per room), 10 will watch, and then we swap
+  * 5 minutes per demo pitch
+  * You will be asked to present and answer some questions by the staff and commissioners
+* After the presentations, we will go to a plenary session for awards, picture and feedback about the course
 
 ## Questions?
 
-## Exercise for today
-
-  - Edit your Project_Proposal_Starter
-  - Give the number of the topic you choose, or whether you will work on your own topic
-- Modify the README.md file and add the text as per next slide
-    - https://www.markdownguide.org/cheat-sheet/
-    - https://markdown-it.github.io/
-    (very nice markdown examples!)
-    
-- Write a concise scientific proposal (one paragraph for each heading is fine, can include lists)
 
 ## Exercise for today
 
-In the README.md:
+Modify the proposal starter's README.md using [Markdown](https://www.markdownguide.org/cheat-sheet/) [syntax](https://markdown-it.github.io/) into a concise scientific proposal.
+One paragraph for each task is fine, can include lists.
+Include:
 
-- Name for the 4-member team and list of members (if you already know this) & Project title
+- Name for the 4-member team and list of members (if you already know this) 
+- Project title
+- Topic number, or "own" if it's your own
 - Task 1: Research questions (**Why?**)
     * Define the aim or question(s) of your project, phrased as questions to answer
     * Be very concrete and specific, also quantitative
@@ -81,34 +92,10 @@ In the README.md:
     * Can it be accessed via a script, and how (i.e. API or download link)?
     * Estimate how large the data set will be for your project
         - e.g. do this by a little test download of one file unless you decide to work in Google Earth Engine
-        - **Important here is to keep the data set small!** e.g. below 500 MiB
+        - **Important here is to keep the data set small!** e.g. below 1 GB
         
 * Task 3: Methods (**How?**)
     * Which functionality or approach will you use to achieve this? Can you already name new packages you will want to try out?
     * What will be the result, output, and/or visualization?
 
-## Proposal submission deadlines
-
-* Inform us about team changes ASAP
-* Submit your proposal **before Friday September 26, 17:15**
-* Review the other teams **before Monday September 29, 17:15**, via Codegrade
-* If you get a NO GO, make changes ASAP 
-* **By Friday October 3 end of the day - all proposals must be approved then**
-* By then you will know which group you are working together with and will get your Project starter repository the following Monday. You can then start working on acquiring the data.
-
-## Work during the project week
-
-* We have rooms in Leeuwenborch for the whole two weeks, but check on [https://te.wur.nl/](https://te.wur.nl/) when and which!
-* Check out the side screens when you have the opportunity!
-* File storage: you can make use of MS Teams Files tab
-  - You don't need to make file download completely reproducible!
-  - Small datasets are better than big datasets
-  - Put the presentation files into MS Teams Files tab as well
-
-## Final presentation day
-
-* We will have two sessions for the interactive presentations using the side screens:
-  * ~10 groups will present (5+5), ~10 will watch, and then we swap (40 minutes per session)
-  * 5 minutes per presentation, 3 minutes for discussion
-* After the presentations, we will go to a plenary session for awards, picture and feedback about the course
-
+## Questions?
