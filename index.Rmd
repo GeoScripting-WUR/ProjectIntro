@@ -24,15 +24,15 @@ output: slidy_presentation
 ## The geo-challenge: Deliverables
 
 1. Project proposal: your specific challenge idea
-1. A project, repository, that is reproducible and produces a result (map, analysis) for your presentation
-  1. If you have external data, put the data files on MS Teams (**NOT** in your Git repository!)
-1. An interactive pitch demonstration of your work where you explain:
-  1. objective
-  1. workflow
-  1. results by using a clear visualization (demo, map, output, analysis)
-  1. what have you learned?
-  1. what would you do if you had more time (e.g. 6 months)?
-* Check the rubrics on [CodeGrade](https://brightspace.wur.nl)!
+2. A project, repository, that is reproducible and produces a result (map, analysis) for your presentation
+* If you have external data, put the data files on MS Teams (**NOT** in your Git repository!)
+3. An interactive pitch demonstration of your work where you explain:
+* objective
+* workflow
+* results by using a clear visualization (demo, map, output, analysis)
+* what have you learned?
+* what would you do if you had more time (e.g. 6 months)?
+  * Check the rubrics on [CodeGrade](https://brightspace.wur.nl)!
 
 ## Teams?!
 
