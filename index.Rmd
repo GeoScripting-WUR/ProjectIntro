@@ -43,13 +43,15 @@ output: slidy_presentation
 
 - You will work in a team of four, but for the time being submit a topic in your current team
 - If you already know what other team you want to work with, in which case:
-  - Write a joint proposal and submit the same proposal for both pairs
+  - Write a joint proposal and have only one group submit the proposal for the whole team of four
 - If not:
   - Write your own proposal, indicate whether it is on one of the predefined challenge topics or a custom topic
   - You will be merged with another group that proposed a similar topic
   - You will work according to the better proposal from the two
 - Starter repositories have been created according to the current teams
 - Feedback, as well as go/no-go, will be given in CodeGrade
+
+## Questions?
 
 ## Exercise for today
 
@@ -61,7 +63,6 @@ output: slidy_presentation
     (very nice markdown examples!)
     
 - Write a concise scientific proposal (one paragraph for each heading is fine, can include lists)
-- Peer-review on Codegrade - two other teams
 
 ## Exercise for today
 
@@ -72,7 +73,9 @@ In the README.md:
     * Define the aim or question(s) of your project, phrased as questions to answer
     * Be very concrete and specific, also quantitative
     * e.g. "How well can Random Forest classify trees, grassland and crops in the Gewata region?"
-    
+
+## Exercise for today
+
 - Task 2: Data (**What?**)
     * Provide a link to the data and describe the metadata (author, date, extent, resolution, etc.)
     * Can it be accessed via a script, and how (i.e. API or download link)?
@@ -87,17 +90,16 @@ In the README.md:
 ## Proposal submission deadlines
 
 * Inform us about team changes ASAP
-* Submit your proposal **before next Friday 16:00**
-* Review the other teams **before 17:10**, via Codegrade
+* Submit your proposal **before Friday September 26, 17:15**
+* Review the other teams **before Monday September 29, 17:15**, via Codegrade
 * If you get a NO GO, make changes ASAP 
-* **By Monday end of the day - all proposals must be approved then**
-* By Monday afternoon you will know which group you are working together with and will get your Project starter repository. You can already start working on acquiring the data.
+* **By Friday October 3 end of the day - all proposals must be approved then**
+* By then you will know which group you are working together with and will get your Project starter repository the following Monday. You can then start working on acquiring the data.
 
 ## Work during the project week
 
-* We have room B9216+B9218 in Aurora for the whole two weeks
-  * WeConnect: your team can all connect to a screen, follow the instructions at [https://wur-studentsupport.screenstepslive.com/m/104769/l/1620176-how-to-get-started-with-weconnect](https://wur-studentsupport.screenstepslive.com/m/104769/l/1620176-how-to-get-started-with-weconnect)
-  * If you want a more quiet working environment, you can book a group room through [https://te.wur.nl/](https://te.wur.nl/), though note that the support will be in B9216+B9218 (or online)
+* We have rooms in Leeuwenborch for the whole two weeks, but check on [https://te.wur.nl/](https://te.wur.nl/) when and which!
+* Check out the side screens when you have the opportunity!
 * File storage: you can make use of MS Teams Files tab
   - You don't need to make file download completely reproducible!
   - Small datasets are better than big datasets
@@ -105,8 +107,8 @@ In the README.md:
 
 ## Final presentation day
 
-* We will have two sessions for the interactive presentations using WeConnect screens:
-  * 10 groups will present, 10 will watch, and then we swap (40 minutes per session)
+* We will have two sessions for the interactive presentations using the side screens:
+  * ~10 groups will present (5+5), ~10 will watch, and then we swap (40 minutes per session)
   * 5 minutes per presentation, 3 minutes for discussion
 * After the presentations, we will go to a plenary session for awards, picture and feedback about the course
 
