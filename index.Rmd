@@ -5,36 +5,32 @@ date: "`r format(Sys.time(), '%Y-%m-%d')`"
 output: slidy_presentation
 ---
 
-## The geo-challenge
+## The geo-challenge: objective
 
-* Objective
-    * Demonstrate scripting skills in a spatial scripting challenge
-    * Choose or come up with an original and novel topic
-    * Write code using packages you haven't used before, make complex reusable functions with efficient code to handle spatial data
-    * Make code reproducible and document well, use project structure, make good use of git
-    * Create an interactive presentation and visualisation (e.g. dashboard, storymap, app, etc.)
-* See also the rubric on CodeGrade
+* Demonstrate scripting skills in a spatial scripting challenge
+* Choose or come up with an original and novel topic
+* Write code using packages you haven't used before, make complex reusable functions with efficient code to handle spatial data
+* Make code reproducible and document well, use project structure, make good use of git
+* Create an interactive presentation and visualisation (e.g. dashboard, storymap, app, etc.)
 
-## The geo-challenge
+## The geo-challenge: Deliverables
 
-* Planning
-    * 8 days for project work (Mon-Wed)
-    * Last Thursday: make interactive posters and give peer feedback
-    * Last Friday: interactive digital poster session
+* A project, repository, that is reproducible
+* Produces a result (map, analysis) for your presentation
+* An interactive poster where you explain
+  * objective
+  * workflow
+  * results by using a clear visualization (demo, map, output, analysis)
+  * what have you learned?
+  * what would you do if you had more time (e.g. 6 months)?
+  * not necessary to show code, optionally snippets to illustrate your point
 
-## The geo-challenge
+## The geo-challenge: planning
 
-* Deliverables:
-    * A project, repository, that is reproducible
-    * Produces a result (map, analysis) for your presentation
-    * An interactive poster where you explain
-        * objective
-        * workflow
-        * results by using a clear visualization (demo, map, output, analysis)
-        * what have you learned?
-        * what would you do if you had more time (e.g. 6 months)?
-        * not necessary to show code, optionally snippets to illustrate your point
-
+* 8 days for project work (Mon-Wed)
+* Last Thursday: make interactive posters and give peer feedback
+* Last Friday: interactive digital poster session
+        
 ## Example geo-challenges
 
 - See Brightspace for predefined challenge topics and data sets
