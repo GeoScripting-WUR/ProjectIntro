@@ -48,7 +48,7 @@ output: slidy_presentation
 
 ## Proposal submission deadlines
 
-* Submit your proposal **before Wednesday September 30, 17:15**
+* Submit your proposal **before Wednesday September 30, 18:00**
 * Review the other teams' proposals **before Friday October 2, 17:15**, via Codegrade
 * If you get a NO GO, make changes **before Friday October 2, 17:15 - all proposals must be approved then**
 * By then you will know which group you are working together with and will get your Project starter repository the following Monday. You can then start working on acquiring the data.
